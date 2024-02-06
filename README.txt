@@ -1,5 +1,7 @@
 Executable - https://stummuac-my.sharepoint.com/:f:/r/personal/23760050_stu_mmu_ac_uk/Documents/Rapid%20Game%20Development/Week%201?csf=1&web=1&e=hMK6Ly
 
+Link to GitHub - https://github.com/TheShekel/AvaianOlympics-Jake/tree/main
+
 Controls: 
 
 WASD to move while falling
@@ -19,3 +21,4 @@ Tutorial on Saving and Loading - https://couchlearn.com/how-to-save-and-load-in-
 Video:
 
 https://youtu.be/K4EcBWDQg1w
+
