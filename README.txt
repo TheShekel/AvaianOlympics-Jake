@@ -15,3 +15,7 @@ Resources used:
 Bird - https://skfb.ly/6BGWn
 
 Tutorial on Saving and Loading - https://couchlearn.com/how-to-save-and-load-in-unreal-engine-5/#:~:text=From%20the%20%E2%80%9CFalse%E2%80%9D%20pin%20create,to%20the%20blueprint%20nodes%20above.
+
+Video:
+
+https://youtu.be/K4EcBWDQg1w
